@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.exe
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.deps.json
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.runtimeconfig.json
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.runtimeconfig.dev.json
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.dll
+C:\Users\PC\source\repos\AtmService\AtmService\bin\Debug\netcoreapp3.1\AtmService.pdb
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.AssemblyInfo.cs
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.dll
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.pdb
+C:\Users\PC\source\repos\AtmService\AtmService\obj\Debug\netcoreapp3.1\AtmService.genruntimeconfig.cache
